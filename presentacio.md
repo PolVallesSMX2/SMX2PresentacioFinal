@@ -8,16 +8,14 @@
 ---
 
 ## 🗺️ 2. Índex i Esquema de la Defensa
-1. **Part 1:** Introducció al Perfil de GitHub, README personalitzat i organització de carpetes.
-2. **Part 2:** Metodologia de treball real aplicada (Ús de Kanban i Git).
-3. **Part 3:** Anàlisi profunda dels dos projectes seleccionats a l'atzar pel Tribunal.
-4. **Part 4:** Conclusions finals i tancament de l'etapa SMX.
+**Part 1:** Introducció al Perfil de GitHub, README personalitzat i organització de carpetes.  
+**Part 2:** Metodologia de treball real aplicada (Ús de Kanban i Git).  
+**Part 3:** Anàlisi profunda dels dos projectes seleccionats a l'atzar pel Tribunal.  
+**Part 4:** Conclusions finals.
 
 ---
 
 ## 📦 3. Els Meus Projectes (Estructura Cronològica)
-
-Com que cada projecte s'ha desenvolupat en un repositori independent, a continuació es detalla l'accés directe a cadascun d'ells amb la seva documentació, codi i productes realitzats:
 
 ### 🔹 Bloc 1: Fonaments i Consultoria IT
 * **Projecte 1: Arranquem**
@@ -45,18 +43,23 @@ Com que cada projecte s'ha desenvolupat en un repositori independent, a continua
     * *Productes destacats:* [P01: Memòria tècnica de Logística](https://github.com/classesSMX2n/projecte-7-PolVallesSMX2/tree/main/Productes/P01)
 * **Projecte 8: Connecta't al futur**
     * *Enllaç GitHub:* [💻 Repositori Projecte 8](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2)
-    * *Breu resum:* Integració final i automatització del repte de digitalització en entorns reals.
 
 ---
 
 ## 🛠️ 4. Metodologia de Treball (Evidències de Seguiment)
-Tal com exigeix la guia del projecte, la feina s'ha estructurat seguint cicles de vida clars:
-* **Planificació i Kanban:** Ús constant de Microsoft Planner per dividir els projectes en tasques clares (Pendent, En curs, Revisió, Fet).
-* **Control de Versions:** Organització estricta a GitHub mitjançant carpetes per ordenar el codi i els productes de manera clara i auditable pels professors.
+Durant aquest curs hem usat metodologies de treball diferents:
+* **Planificació i Kanban:** Ús constant de Microsoft Planner durant els primers projectes per dividir aquests en tasques clares (Pendent, En curs, Revisió, Fet).
+* **Control de Versions:** Organització estricta a GitHub mitjançant carpetes per ordenar el codi, tasques i els productes de manera clara i auditable pels professors.
+* **Diagrames:** Hem fet servir alguna cop diagrames de Grantt, per establir diferents coses com per exemple les durades de cada tasca i dependències.
 
 ---
 
-## 🏁 6. Conclusions i Aprenentatges
-* **Gestió de Projectes:** Domini real de les metodologies àgils (Kanban) i control de terminis d'entrega.
-* **Capacitat d'Adaptació:** Resolució de problemes crítics (com configuracions de DNS al P3 o anàlisi de riscos en consultoria).
-* **Ecosistema Tècnic:** Consolidació de coneixements en xarxes, serveis i desplegament d'infraestructures professionals.
+## 📜 5. Conclusions i Aprenentatges
+
+* **La importància de la resiliència tècnica ("Saber buscar-se la vida"):**
+Varis projectes per no dir gairabé tots, m'han demostrat que en informàtica les coses quasi mai surten a la primera. El repte real no ha sigut seguir una guia per completar una instal·lació, sinò trobar que es el que falla i buscar una solució.
+* **La gestió del temps real enfront de la planificació teòrica:**
+Treballar amb metodologies com el Kanban amb Microsoft Planner, m'ha fet veure que planificar és fàcil, però gestionar els imprevistos és el complicat.
+* **De la teoria de l'aula a la realitat del client:**
+  Simular casos com el disseny de la maqueta a Figma de "Find Your Pet" o els informes de consultoria, m'ha servit per entendre que la tecnologia no serveix de res si no s'explica bé.
+
