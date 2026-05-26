@@ -33,16 +33,16 @@
 
 ### 🔹 Bloc 2: Desenvolupament, Xarxes i Serveis Reals
 * **Projecte 5: La incubator**
-    * *Enllaç GitHub:* [💻 Repositori Projecte 5](https://github.com/PolVallesSMX2/Projecte-05-La-incubadora)
+    * *Enllaç GitHub:* [💻 Repositori Projecte 5](https://github.com/PolVallesSMX2/projecte5-PolVallesSMX2)
     * *Productes destacats:* [P03: Evidència assaig (Àudio/Vídeo)](https://drive.google.com/file/d/1Wr3-_5fKC3UmHBkO_bsNLRrv1DQo9N-q/view) | [P03: Presentació format SCREENCAST](https://drive.google.com/file/d/1vu8JWuEyoS8zAC88s09LpkmiNAn3er1S/view?usp=sharing)
 * **Projecte 6: Nexus**
-    * *Enllaç GitHub:* [💻 Repositori Projecte 6](https://github.com/classesSMX2n/projecte6-PolVallesSMX2)
+    * *Enllaç GitHub:* [💻 Repositori Projecte 6](https://github.com/PolVallesSMX2/projecte6-PolVallesSMX2)
     * *Productes destacats:* [P01: Memòria proposta tècnica](https://github.com/classesSMX2n/projecte6-PolVallesSMX2/blob/main/Productes/P01/solucio.md) | [P02: Presentació Infraestructura](https://github.com/classesSMX2n/projecte6-PolVallesSMX2/blob/main/Productes/P02/Presentaci%C3%B3%20Infraestructura%20Nexus.pdf)
 * **Projecte 7: FoodLogistic**
-    * *Enllaç GitHub:* [💻 Repositori Projecte 7](https://github.com/classesSMX2n/projecte-7-PolVallesSMX2)
+    * *Enllaç GitHub:* [💻 Repositori Projecte 7](https://github.com/PolVallesSMX2/projecte-7-PolVallesSMX2)
     * *Productes destacats:* [P01: Memòria tècnica de Logística](https://github.com/classesSMX2n/projecte-7-PolVallesSMX2/tree/main/Productes/P01)
 * **Projecte 8: Connecta't al futur**
-    * *Enllaç GitHub:* [💻 Repositori Projecte 8](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2)
+    * *Enllaç GitHub:* [💻 Repositori Projecte 8](https://github.com/PolVallesSMX2/projecte-8-PolVallesSMX2)
 
 ---
 
