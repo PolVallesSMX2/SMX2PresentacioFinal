@@ -60,8 +60,8 @@ Orientat al **disseny i desplegament d’una infraestructura de servidors** segu
 
 ### 🌱 Projecte 08 — Connecta’t al Futur: El repte de la digitalització real
 Projecte final, aquest va tractar sobre la **transformació digital de petites i mitjanes empreses** (PIMES). Unificació de conceptes d’automatització avançada amb criteris de sostenibilitat, ODS i administració eficient del sistema estudiat durant el cicle.
-*  **Tasques  lliurades (PI)** [Tasca 1: Detecció de necessitats reals](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2/tree/main/Tasca01)
-*  **Altres tasques**  [Tasca 2](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2/tree/main/Tasca02)
+*  **Tasques  lliurades (PI)** [Tasca 1: Detecció de necessitats reals](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2/blob/main/Tasca01/solucio.md)
+*  **Altres tasques**  [Tasca 2](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2/blob/main/Tasca02/solucio.md)
 * **Repositori oficial d'Integració:** [🔗 GitHub - Projecte 8](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2)
 
 ---
