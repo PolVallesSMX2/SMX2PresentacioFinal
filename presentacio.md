@@ -27,11 +27,13 @@ En aquest projecte ens vam incorporar a la **consultora fictícia EverPia** com 
 
 Es van treballar eines com GitHub, Markdown, serveis Linux, hosting i documentació tècnica.
 * **Productes lliurats (PI):** [P01: Kanban de seguiment Planner](https://planner.cloud.microsoft/webui/v1/plan/x2ii3qmUqEiXjNDJ1HEELZYAE48n?tid=c7b5981a-7820-4ac8-ae65-03515ea81317) | [P03: Presentació d’elecció de hosting al client](https://docs.google.com/presentation/d/1q7ZZ2UXfsaSuam0RWngJiPj_Zh6bO-n9P3oF8Nzpk_M/edit?usp=sharing)
+* **Altres productes:** P02: Afegint la documentació de seguretat al repositori
 * **Repositori oficial:** [🔗 GitHub - Projecte 2](https://github.com/PolVallesSMX2/Projecte2/blob/main/README.md)
 
 ### 🔥 Projecte 03 — Consultoria EverPia 2
 **Simulació de creixement empresarial i gestió d'incidències crítiques** en infraestructures actives (manteniment sota pressió). Es van treballar conceptes fonamentals de xarxes, administració de sistemes i sostenibilitat.
 * **Productes lliurats (PI):** [P01: Kanban de control](https://planner.cloud.microsoft/webui/v1/plan/lr6OlgT0REaWtYF3G2R5SJYAFuuf?tid=c7b5981a-7820-4ac8-ae65-03515ea81317) | [P06: Vídeo d'arquitectura i formació DNS](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/tree/main/Tasques/T06) | [P07: Infografia de sostenibilitat (Green Computing)](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/tree/main/Productes/P07)
+* **Altres productes:** P03: Rèplica [web](https://davidperalvarez.com/) | P04: Documentació servidor DNS | P05: Presentació sistemes emmagatzematge
 * **Repositori oficial:** [🔗 GitHub - Projecte 3](https://github.com/PolVallesSMX2/Projecte3-ConsultoriaEverPia2/blob/main/README.md)
 
 ### 🧠 Projecte 04 — Consultoria EverPia 3
@@ -58,6 +60,8 @@ Orientat al **disseny i desplegament d’una infraestructura de servidors** segu
 
 ### 🌱 Projecte 08 — Connecta’t al Futur: El repte de la digitalització real
 Projecte final, aquest va tractar sobre la **transformació digital de petites i mitjanes empreses** (PIMES). Unificació de conceptes d’automatització avançada amb criteris de sostenibilitat, ODS i administració eficient del sistema estudiat durant el cicle.
+*  **Tasques  lliurades (PI)** [Tasca 1: Detecció de necessitats reals](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2/tree/main/Tasca01)
+*  **Altres tasques**  [Tasca 2](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2/tree/main/Tasca02)
 * **Repositori oficial d'Integració:** [🔗 GitHub - Projecte 8](https://github.com/classesSMX2n/projecte-8-PolVallesSMX2)
 
 ---
