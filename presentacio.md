@@ -18,7 +18,7 @@
 ## 📦 3. Els Meus Projectes
 
 ### 🚀 Projecte 01 — Arranquem
-Aquest primer projecte va servir com a **introducció a la metodologia de treball** professional dins del món IT. L’objectiu principal no era crear un producte final complet, sinó **aprendre a organitzar tasques, treballar en equip i seguir una metodologia** àgil mitjançant eines com **Kanban** i **Microsoft Planner**.
+Aquest primer projecte va servir com a **introducció a la metodologia de treball** professional dins del món IT. L’objectiu principal no era crear un producte final complet, sinó **aprendre a organitzar tasques, treballar en equip i seguir una metodologia** àgil mitjançant eines com **Kanban**.
 * **Producte lliurat (PI):** [P01: Kanban digital de planificació](https://planner.cloud.microsoft/webui/v1/plan/1_1ZeF8X1EWSbH_Z5zP0VpYAGZNN?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
 * **Repositori:** No es va utilitzar en aquesta fase inicial.
 
